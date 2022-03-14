@@ -39,8 +39,8 @@
     <form>
         <font  face="Times New Roman" size='5'>
             Please input your Name:&nbsp&nbsp<input type="text" name="uName" placeholder="name name name" required><br/>
-            Please input your Email:&nbsp&nbsp<input type="email" name="email" require><br/>
-            Please input your Phonenumber:&nbsp&nbsp<input type="tel" name="phone" require><br/>
+            Please input your Email:&nbsp&nbsp<input type="email" name="email" required><br/>
+            Please input your Phonenumber:&nbsp&nbsp<input type="tel" name="phone" required><br/>
             Please input your Gender:&nbsp&nbsp<input type="radio" name="male">Male<input type="radio" name="femal">Femal<input type="radio" name="none">N/A<br/>
             Please input your Food Preference:&nbsp&nbsp<input type="checkbox" name="meat">肉<input type="checkbox" name="vegetetable">蔬菜<input type="checkbox" name="fish">魚<input type="checkbox" name="rice">米飯<input type="checkbox" name="noodle">麵食<input type="checkbox" name="seafood">海鮮<br/>
             Please choose your T-shirt size:&nbsp&nbsp
